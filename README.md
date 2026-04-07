@@ -1,8 +1,8 @@
 ![Header](header.png)
 
-Git 󱓇 1970-01-01T00:00:00Z
-󱞩  aex-a $ fastfetch
-
+```
+Git 1970-01-01T00:00:00Z
+aex-a $ fastfetch
 
              .',;::::;,'.                 • SYSTEM INFORMATION
          .';:cccccccccccc:;,.             ROLE - NOC Technician II -> Junior SRE
@@ -25,6 +25,10 @@ ccccccccccccccccccccccccccccc:'.
  ':cccccccccccccccc::;,. 
 
 
+
+```
+
+
 ## 🐧 feat/projects
 
 ### [ot-trek](https://github.com/aex-a/ot-trek) | `OpenTofu` `GCP` `IaC`
@@ -36,3 +40,4 @@ for automated dependency injection.
 A suite of robust Bash utilities engineered for Linux environments.
 **q-length.sh**: A dual-mode network socket/queue monitoring tool integrated directly as a native `systemd`
 daemon with signal trapping (SIGINT/SIGTERM) for graceful shutdowns.
+
