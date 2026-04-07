@@ -1,33 +1,18 @@
 ![Header](header.png)
 
-```
-Git 1970-01-01T00:00:00Z
-aex-a $ fastfetch
+git ⌬ 1970-01-01T00:00:00Z  
+↯ aex-a $ fastfetch
 
-             .',;::::;,'.                 • SYSTEM INFORMATION
-         .';:cccccccccccc:;,.             ROLE - NOC Technician II -> Junior SRE
-      .;cccccccccccccccccccccc;.          CERT - RHCSA (ID: 250-187-358)
-    .:cccccccccccccccccccccccccc:.        OS - openSUSE Tumbleweed / Fedora / RHEL 10
-  .;ccccccccccccc;.:dddl:.;ccccccc;.      IAC - OpenTofu / Terraform / GCP
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     AUTOMATION - Bash / Systemd-Timers / Cron
-.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    NETWORKING - OpenWRT / VPC / firewall-cmd / wg
-,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    SECURITY - SELinux / PCI Compliance / Lynis (CISOfy)
-:cccccccccccccc;MMM.;cccccccccccccccc:    DISKS - BTRFS / XFS / LVM / LUKS
-:ccccccc;oxOOOo;MMM000k.;cccccccccccc:    LOGIN MANAGER - Wayland
-cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    
-ccccc;XMO';cccc;MMM.;cccccccccccccccc'    
-ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     
-ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      
-cccccc;dNMWXXXWM0:;cccccccccccccc:,       
-cccccccc;.:odl:.;cccccccccccccc:,.        
-ccccccccccccccccccccccccccccc:'.          
-:ccccccccccccccccccccccc:;,.. 
- ':cccccccccccccccc::;,. 
-
-
-
-```
-
+SYSTEM INFORMATION  
+ROLE \- NOC Technician II \-\> Junior SRE  
+CERT \- RHCSA (ID: 250-187-358)  
+OS \- openSUSE Tumbleweed \/ Fedora \/ RHEL 10  
+IAC \- OpenTofu \/ Terraform \/ GCP  
+AUTOMATION \- Bash \/ Systemd-Timers \/ Cron  
+NETWORKING \- OpenWRT \/ VPC \/ firewall-cmd \/ wg  
+SECURITY \- SELinux \/ PCI Compliance \/ Lynis (CISOfy)  
+DISKS \- BTRFS \/ XFS \/ LVM \/ LUKS  
+LOGIN MANAGER \- Wayland  
 
 ## 🐧 feat/projects
 
@@ -40,4 +25,3 @@ for automated dependency injection.
 A suite of robust Bash utilities engineered for Linux environments.
 **q-length.sh**: A dual-mode network socket/queue monitoring tool integrated directly as a native `systemd`
 daemon with signal trapping (SIGINT/SIGTERM) for graceful shutdowns.
-
