@@ -12,7 +12,7 @@ AUTOMATION \- Bash \/ Systemd-Timers \/ Cron
 NETWORKING \- OpenWRT \/ VPC \/ firewall-cmd \/ wg  
 SECURITY \- SELinux \/ PCI Compliance \/ Lynis (CISOfy)  
 DISKS \- BTRFS \/ XFS \/ LVM \/ LUKS  
-LOGIN MANAGER \- Wayland  
+LOGIN MANAGER \- greetd 
 
 ## 🐧 feat/projects
 
